@@ -1,6 +1,6 @@
 # sveltekit-template
 
-[sveltekit](https://kit.svelte.dev/docs/creating-a-project) + [tailwindcss](https://tailwindcss.com/docs/guides/sveltekit)
+[sveltekit](https://kit.svelte.dev/docs/creating-a-project) + [tailwindcss](https://tailwindcss.com/docs/guides/sveltekit) + [vite](https://vitejs.dev/config/)
 
 ## Installation
 
