@@ -4,8 +4,10 @@
 
 ## Installation
 
+### Via [degit](https://github.com/Rich-Harris/degit)
+
 ```bash
-git clone https://github.com/freearhey/svelte-template.git my_app
+degit freearhey/svelte-template my_app
 cd my_app
 npm install
 ```
